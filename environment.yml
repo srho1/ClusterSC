@@ -1,0 +1,23 @@
+name: syc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scipy
+  - ipykernel
+  - jupyter_client
+  - jupyter_core
+  - tqdm
+  - joblib
+  - fonttools
+  - pillow
+  - snakeviz
+  - bottleneck
+  - numexpr
+  - kneed
