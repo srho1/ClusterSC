@@ -1,4 +1,6 @@
 # ClusterSC: Advancing Synthetic Control with Donor Selection
+Paper link: https://arxiv.org/abs/2503.21629
+
 This repo contains both code for reproducing the experiments in the paper as well as a simple library, [syclib](syclib), which we use for our experimental code and also hope can benefit the community.
 
 ## Installation
